@@ -1,2 +1,2 @@
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Yuqi154&show_icons=true&theme=buefy&hide_border=true?count_private=true&locale=cn" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuqi154&layout=compact&theme=buefy&hide_border=true&locale=cn" /></a> |
+| ![Yuqi154's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yuqi154&count_private=true&show_icons=true)|![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuqi154&&layout=compact&hide=go) |
 | ------------- | ------------- |
